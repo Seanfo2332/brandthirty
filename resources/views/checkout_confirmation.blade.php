@@ -140,7 +140,7 @@
                         <div class="accordion-content bg-brand-black/20">
                             <div class="p-6 text-center">
                                 <div class="bg-white p-2 rounded-lg inline-block w-40 h-40 mb-4">
-                                    <img src="{{ asset('images/duitnow_qr.jpg') }}" alt="DuitNow QR"
+                                    <img src="{{ asset('Images/duitnow_qr.jpg') }}" alt="DuitNow QR"
                                         class="w-full h-full object-contain">
                                 </div>
                                 <div class="bg-gray-800 rounded px-3 py-1 text-xs font-mono inline-block text-gray-300">

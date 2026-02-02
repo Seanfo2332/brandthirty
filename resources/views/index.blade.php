@@ -279,58 +279,58 @@
                 <!-- Desktop Scroll -->
                 <div class="hidden md:flex w-[200%] animate-scroll hover:pause">
                     <div class="flex w-1/2 justify-around items-center gap-32 px-16">
-                        <img src="{{ asset('images/brandlogo1.png') }}"
+                        <img src="{{ asset('Images/brandlogo1.png') }}"
                             class="h-56 w-auto object-contain transition duration-300 hover:scale-110"
                             alt="News Site Logo">
-                        <img src="{{ asset('images/brandlogo2.png') }}"
+                        <img src="{{ asset('Images/brandlogo2.png') }}"
                             class="h-56 w-auto object-contain transition duration-300 hover:scale-110"
                             alt="Media Outlet Logo">
-                        <img src="{{ asset('images/brandlogo3.png') }}"
+                        <img src="{{ asset('Images/brandlogo3.png') }}"
                             class="h-56 w-auto object-contain transition duration-300 hover:scale-110"
                             alt="Authority Site Logo">
-                        <img src="{{ asset('images/brandlogo4.png') }}"
+                        <img src="{{ asset('Images/brandlogo4.png') }}"
                             class="h-56 w-auto object-contain transition duration-300 hover:scale-110"
                             alt="Press Release Logo">
-                        <img src="{{ asset('images/brandlogo6.png') }}"
+                        <img src="{{ asset('Images/brandlogo6.png') }}"
                             class="h-56 w-auto object-contain transition duration-300 hover:scale-110"
                             alt="Global News Logo">
-                        <img src="{{ asset('images/brandlogo8.png') }}"
+                        <img src="{{ asset('Images/brandlogo8.png') }}"
                             class="h-56 w-auto object-contain transition duration-300 hover:scale-110"
                             alt="Business News Logo">
-                        <img src="{{ asset('images/brandlogo9.png') }}"
+                        <img src="{{ asset('Images/brandlogo9.png') }}"
                             class="h-56 w-auto object-contain transition duration-300 hover:scale-110" alt="Media Logo">
                     </div>
                     <div class="flex w-1/2 justify-around items-center gap-32 px-16">
-                        <img src="{{ asset('images/brandlogo1.png') }}"
+                        <img src="{{ asset('Images/brandlogo1.png') }}"
                             class="h-56 w-auto object-contain transition duration-300 hover:scale-110"
                             alt="News Site Logo">
-                        <img src="{{ asset('images/brandlogo2.png') }}"
+                        <img src="{{ asset('Images/brandlogo2.png') }}"
                             class="h-56 w-auto object-contain transition duration-300 hover:scale-110"
                             alt="Media Outlet Logo">
-                        <img src="{{ asset('images/brandlogo3.png') }}"
+                        <img src="{{ asset('Images/brandlogo3.png') }}"
                             class="h-56 w-auto object-contain transition duration-300 hover:scale-110"
                             alt="Authority Site Logo">
-                        <img src="{{ asset('images/brandlogo4.png') }}"
+                        <img src="{{ asset('Images/brandlogo4.png') }}"
                             class="h-56 w-auto object-contain transition duration-300 hover:scale-110"
                             alt="Press Release Logo">
-                        <img src="{{ asset('images/brandlogo6.png') }}"
+                        <img src="{{ asset('Images/brandlogo6.png') }}"
                             class="h-56 w-auto object-contain transition duration-300 hover:scale-110"
                             alt="Global News Logo">
-                        <img src="{{ asset('images/brandlogo8.png') }}"
+                        <img src="{{ asset('Images/brandlogo8.png') }}"
                             class="h-56 w-auto object-contain transition duration-300 hover:scale-110"
                             alt="Business News Logo">
-                        <img src="{{ asset('images/brandlogo9.png') }}"
+                        <img src="{{ asset('Images/brandlogo9.png') }}"
                             class="h-56 w-auto object-contain transition duration-300 hover:scale-110" alt="Media Logo">
                     </div>
                 </div>
                 <!-- Mobile Grid -->
                 <div class="grid grid-cols-2 gap-8 md:hidden px-4 justify-items-center items-center">
-                    <img src="{{ asset('images/brandlogo1.png') }}" class="h-24 w-auto object-contain" alt="Logo">
-                    <img src="{{ asset('images/brandlogo2.png') }}" class="h-24 w-auto object-contain" alt="Logo">
-                    <img src="{{ asset('images/brandlogo3.png') }}" class="h-24 w-auto object-contain" alt="Logo">
-                    <img src="{{ asset('images/brandlogo4.png') }}" class="h-24 w-auto object-contain" alt="Logo">
-                    <img src="{{ asset('images/brandlogo6.png') }}" class="h-24 w-auto object-contain" alt="Logo">
-                    <img src="{{ asset('images/brandlogo8.png') }}" class="h-24 w-auto object-contain" alt="Logo">
+                    <img src="{{ asset('Images/brandlogo1.png') }}" class="h-24 w-auto object-contain" alt="Logo">
+                    <img src="{{ asset('Images/brandlogo2.png') }}" class="h-24 w-auto object-contain" alt="Logo">
+                    <img src="{{ asset('Images/brandlogo3.png') }}" class="h-24 w-auto object-contain" alt="Logo">
+                    <img src="{{ asset('Images/brandlogo4.png') }}" class="h-24 w-auto object-contain" alt="Logo">
+                    <img src="{{ asset('Images/brandlogo6.png') }}" class="h-24 w-auto object-contain" alt="Logo">
+                    <img src="{{ asset('Images/brandlogo8.png') }}" class="h-24 w-auto object-contain" alt="Logo">
                 </div>
             </div>
         </div>
